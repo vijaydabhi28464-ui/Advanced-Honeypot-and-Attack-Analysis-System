@@ -30,5 +30,5 @@ This project helps in understanding real-world attack patterns in a controlled e
 
 ```bash
 git clone https://github.com/vijaydabhi28464-ui/Advanced-Honeypot-and-Attack-Analysis-System.git
-cd ssh-honeypot
+cd advanced-ssh-honeypot
 pip install -r requirements.txt

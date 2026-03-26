@@ -1,0 +1,10 @@
+SSH Honeypot Report
+
+Total credential attempts detected
+Brute-force patterns observed
+Common usernames: root, admin
+Common passwords: 123456, password
+Commands attempted: uname, wget, curl
+
+Conclusion:
+Honeypot successfully captured attacker behavior.
